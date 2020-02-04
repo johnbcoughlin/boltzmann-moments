@@ -1,0 +1,3 @@
+* References
+- Jeong-Young Ji and Eric D. Held, "Landau Collision Operators and General
+  Moment Equations for an Electron-Ion Plasma"
