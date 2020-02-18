@@ -1,7 +1,9 @@
 [deps]
 AbstractPlotting = "537997a7-5e4e-5d89-9595-2241ea00577e"
+AutoAligns = "9eadff86-3e88-5017-babf-a54584f26cc8"
 Calculus = "49dc2e85-a5d0-5ad3-a950-438e2897f1b9"
 Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 HCubature = "19dc6840-f33b-545b-b366-655c7e3ffd49"
